@@ -16,13 +16,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -32,26 +25,25 @@
 
 
 <!--Intro start-->
-👨‍💻 Soy ingeniero de sistemas con experiencia en programacion, gestión de proyectos y un amplio conocimiento en diversas tecnologías:
+👨‍💻 I am a systems engineer with experience in programming, project management and extensive knowledge in various technologies:
 
-💼 Actualmente estoy enfocado en proyectos utilizando Laravel, y tengo experiencia en bases de datos como PostgreSQL, MySQL, y SQL Server.
+💼 I am currently focused on projects using Laravel, and I have experience in databases such as PostgreSQL, MySQL, and SQL Server.
 
-🌐 También tengo habilidades en Node.js y Django para el desarrollo de aplicaciones web y APIs.
+🌐 I also have skills in Node.js and Django for the development of web applications and APIs.
 
-🧠 Mi experiencia incluye la implementación de soluciones de inteligencia de negocios y el desarrollo de modelos de redes neuronales utilizando Python, así como la creación de aplicaciones con React, React Native, y JavaScript en el frontend.
+🧠 My experience includes implementing business intelligence solutions and developing neural network models using Python, as well as building applications with React, React Native, and JavaScript on the frontend.
 
-☁️ Tengo un gran interés en el campo de la computación en la nube, especialmente en AWS.
+☁️ I have a great interest in the field of cloud computing, especially AWS.
 
-✍️ Regularmente comparto conocimientos a través de artículos técnicos en mi perfil de Hashnode.
+✍️ I regularly share knowledge through technical articles on my Hashnode profile.
 
-💬 Puedes consultarme sobre cualquier tema relacionado con AWS, Laravel, bases de datos, desarrollo web, inteligencia artificial y redes.
+💬 You can consult me ​​on any topic related to AWS, Laravel, databases, web development, artificial intelligence and networks.
 
-📫 No dudes en contactarme en frankocrospomaugaz@gmail.com.
+📫 Feel free to contact me at frankocrospomaugaz@gmail.com.
 
-🏠 Además, formo parte de una comunidad tecnológica, donde compartimos conocimientos y colaboramos en proyectos.
+🏠 In addition, I am part of a technological community, where we share knowledge and collaborate on projects.
 
-¡Estoy entusiasmado por seguir aprendiendo y colaborar en proyectos desafiantes!
-
+I'm excited to continue learning and collaborating on challenging projects!
 
 <!--Intro end-->
 
