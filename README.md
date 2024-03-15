@@ -32,7 +32,7 @@
 
 
 <!--Intro start-->
-👨‍💻 Soy ingeniero de sistemas con experiencia en el manejo de redes y un amplio conocimiento en diversas tecnologías:
+👨‍💻 Soy ingeniero de sistemas con experiencia en programacion, gestión de proyectos y un amplio conocimiento en diversas tecnologías:
 
 💼 Actualmente estoy enfocado en proyectos utilizando Laravel, y tengo experiencia en bases de datos como PostgreSQL, MySQL, y SQL Server.
 
